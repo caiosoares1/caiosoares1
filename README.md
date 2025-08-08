@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Caio! 👋
 
-<!--
-**caiosoares1/caiosoares1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and an undergraduate student at **IFPB** (Internet Systems).  
+I love building cool things with modern technologies and always enjoy learning new stuff.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** JavaScript | TypeScript | Java | Python
+- **Frameworks/Libraries:** Angular | React | Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Main Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosoares1&layout=compact&theme=radical)
+
+## 🚀 Featured Project
+
+### [React-Gasify](https://github.com/caiosoares1/React-Gasify)
+A project I'm proud of! Go check it out for some modern, clean code and cool ideas.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caio-soares1/)
+
+---
+
+> just chilling, i like to code :D
