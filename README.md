@@ -11,10 +11,6 @@ I love building cool things with modern technologies and always enjoy learning n
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiosoares1&layout=compact&theme=radical)
 
-## 🚀 Featured Project
-
-### [React-Gasify](https://github.com/caiosoares1/React-Gasify)
-A project I'm proud of! Go check it out for some modern, clean code and cool ideas.
 
 ## 🌐 Connect With Me
 
