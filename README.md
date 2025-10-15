@@ -4,8 +4,8 @@ I'm a passionate software developer and an undergraduate student at **IFPB** (In
 I love building cool things with modern technologies and always enjoy learning new stuff.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript | TypeScript | Java | Python
-- **Frameworks/Libraries:** Angular | React | Spring Boot
+- **Languages:** JavaScript | TypeScript | Python | Java
+- **Frameworks/Libraries:** Angular | React | Django | Spring Boot
 
 ## 📊 My Main Languages
 
