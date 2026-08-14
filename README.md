@@ -19,3 +19,12 @@ I love building cool things with modern technologies and always enjoy learning n
 ---
 
 > just chilling, i like to code :D
+
+
+<a href="https://www.gitascii.com">
+  <img
+    src="https://www.gitascii.com/api/caiosoares1?v=1786666651779"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
