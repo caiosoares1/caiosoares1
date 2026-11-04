@@ -4,8 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/caio-soares1/"><img src="https://img.shields.io/badge/in-LinkedIn-060606?style=for-the-badge&labelColor=C5FF4A" alt="LinkedIn"/></a>
-<a href="https://github.com/caiosoares1"><img src="https://img.shields.io/badge/GitHub-060606?style=for-the-badge&logo=github&logoColor=C5FF4A" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/caio-soares1/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-C5FF4A?style=for-the-badge&labelColor=252525" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=caiosoares1&color=c5ff4a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
