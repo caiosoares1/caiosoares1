@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/caio-soares1/"><img src="https://img.shields.io/badge/LinkedIn-060606?style=for-the-badge&logo=linkedin&logoColor=C5FF4A" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/caio-soares1/"><img src="https://img.shields.io/badge/in-LinkedIn-060606?style=for-the-badge&labelColor=C5FF4A" alt="LinkedIn"/></a>
 <a href="https://github.com/caiosoares1"><img src="https://img.shields.io/badge/GitHub-060606?style=for-the-badge&logo=github&logoColor=C5FF4A" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=caiosoares1&color=c5ff4a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
@@ -41,8 +41,10 @@ I'm a software developer who enjoys turning ideas into reliable, well-crafted pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caiosoares1&show_icons=true&include_all_commits=true&count_private=true&bg_color=060606&title_color=C5FF4A&text_color=E5E5E5&icon_color=C5FF4A&border_color=252525&ring_color=C5FF4A" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosoares1&layout=compact&langs_count=8&bg_color=060606&title_color=C5FF4A&text_color=E5E5E5&border_color=252525" alt="Top languages" />
+<img src="./profile-summary-card-output/chartreuse-dark/0-profile-details.svg" alt="Profile details" width="100%" />
+
+<img src="./profile-summary-card-output/chartreuse-dark/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="./profile-summary-card-output/chartreuse-dark/2-most-commit-language.svg" alt="Most commit language" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=caiosoares1&background=060606&border=252525&stroke=252525&ring=C5FF4A&fire=C5FF4A&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=C5FF4A&sideLabels=C5FF4A&dates=8A8A8A" alt="GitHub streak" />
 
@@ -50,10 +52,10 @@ I'm a software developer who enjoys turning ideas into reliable, well-crafted pr
 
 ---
 
-### `> ./activity --graph`
+### `> ./snake --eat-contributions`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiosoares1&bg_color=060606&color=E5E5E5&line=C5FF4A&point=E5E5E5&area=true&area_color=C5FF4A&title_color=C5FF4A&hide_border=false&border_color=252525" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/caiosoares1/caiosoares1/output/snake.svg" alt="Snake eating contributions" />
 </p>
 
 ---
