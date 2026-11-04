@@ -42,6 +42,7 @@ caio@dev:~$ _
 ### `> ls ./projects --featured`
 
 <table>
+<thead>
 <tr>
 <td width="33%" valign="top">
 
@@ -65,6 +66,8 @@ caio@dev:~$ _
 
 </td>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td width="33%" valign="bottom">
 <img src="https://skillicons.dev/icons?i=react,ts,nestjs,prisma,postgres,jest&theme=dark&perline=6" alt="westminster-songs stack" height="32" />
@@ -76,6 +79,7 @@ caio@dev:~$ _
 <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,windows&theme=dark&perline=6" alt="claude-usage-tray stack" height="32" />
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
