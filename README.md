@@ -19,17 +19,22 @@ caio@dev:~$ whoami
   focus      Web applications, APIs and clean, maintainable code
   status     Open to new opportunities
   motto      "just chilling, i like to code :D"
+
+caio@dev:~$ cat about.txt
+  I'm a software developer who enjoys turning ideas into reliable,
+  well-crafted products. I work across the stack, from responsive
+  front-ends to robust back-end services, and I'm always exploring
+  new tools and better ways to build.
+
 caio@dev:~$ _
 ```
-
-I'm a software developer who enjoys turning ideas into reliable, well-crafted products. I work across the stack — from responsive front-ends to robust back-end services — and I'm always exploring new tools and better ways to build.
 
 ---
 
 ### `> ls ./tech-stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,angular,react,django,spring,html,css,git,github&theme=dark&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,python,postgres,supabase&theme=dark&perline=8" alt="Tech stack" />
 </p>
 
 ---
@@ -40,27 +45,27 @@ I'm a software developer who enjoys turning ideas into reliable, well-crafted pr
 <tr>
 <td width="33%" valign="top">
 
-#### `01` [westminster-songs](https://github.com/caiosoares1/westminster-songs)
+#### <samp>01 · <a href="https://github.com/caiosoares1/westminster-songs">westminster-songs</a></samp>
 
-Mobile app to create, browse and import song lyrics with chords, featuring OCR import and chord transposition.
+<samp>Mobile app to create, browse and import song lyrics with chords, featuring OCR import and chord transposition.</samp>
 
 <img src="https://skillicons.dev/icons?i=react,ts,nestjs,prisma,postgres,jest&theme=dark&perline=6" alt="westminster-songs stack" height="32" />
 
 </td>
 <td width="33%" valign="top">
 
-#### `02` [vetorcore](https://github.com/caiosoares1/vetorcore)
+#### <samp>02 · <a href="https://github.com/caiosoares1/vetorcore">vetorcore</a></samp>
 
-Progressive web app for sales and inventory management, with PDF quotes, row-level security and automated CI.
+<samp>Progressive web app for sales and inventory management, with PDF quotes, row-level security and automated CI.</samp>
 
 <img src="https://skillicons.dev/icons?i=react,ts,vite,supabase,postgres,vercel&theme=dark&perline=6" alt="vetorcore stack" height="32" />
 
 </td>
 <td width="33%" valign="top">
 
-#### `03` [claude-usage-tray](https://github.com/caiosoares1/claude-usage-tray)
+#### <samp>03 · <a href="https://github.com/caiosoares1/claude-usage-tray">claude-usage-tray</a></samp>
 
-Windows tray app that tracks usage limits across multiple Claude accounts and switches the active Claude Code account in one click.
+<samp>Windows tray app that tracks usage limits across multiple Claude accounts and switches the active Claude Code account in one click.</samp>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,windows&theme=dark&perline=6" alt="claude-usage-tray stack" height="32" />
 
