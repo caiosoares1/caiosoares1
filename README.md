@@ -21,7 +21,7 @@ caio@dev:~$ whoami
   motto      "just chilling, i like to code :D"
 
 caio@dev:~$ cat about.txt
-  I'm a software developer who enjoys turning ideas into reliable,
+  I'm a software engineer who enjoys turning ideas into reliable,
   well-crafted products. I work across the stack, from responsive
   front-ends to robust back-end services, and I'm always exploring
   new tools and better ways to build.
