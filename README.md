@@ -34,6 +34,42 @@ I'm a software developer who enjoys turning ideas into reliable, well-crafted pr
 
 ---
 
+### `> ls ./projects --featured`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### `01` [westminster-songs](https://github.com/caiosoares1/westminster-songs)
+
+Mobile app to create, browse and import song lyrics with chords, featuring OCR import and chord transposition.
+
+<img src="https://skillicons.dev/icons?i=react,ts,nestjs,prisma,postgres,jest&theme=dark&perline=6" alt="westminster-songs stack" height="32" />
+
+</td>
+<td width="33%" valign="top">
+
+#### `02` [vetorcore](https://github.com/caiosoares1/vetorcore)
+
+Progressive web app for sales and inventory management, with PDF quotes, row-level security and automated CI.
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,supabase,postgres,vercel&theme=dark&perline=6" alt="vetorcore stack" height="32" />
+
+</td>
+<td width="33%" valign="top">
+
+#### `03` [claude-usage-tray](https://github.com/caiosoares1/claude-usage-tray)
+
+Windows tray app that tracks usage limits across multiple Claude accounts and switches the active Claude Code account in one click.
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,powershell,windows&theme=dark&perline=6" alt="claude-usage-tray stack" height="32" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ### `> cat ./stats.log`
 
 <div align="center">
