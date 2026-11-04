@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=C5FF4A&center=true&vCenter=true&width=600&lines=%3E+Hi%2C+I'm+Caio+Soares_;%3E+Full-Stack+Developer_;%3E+Internet+Systems+Graduate+%40+IFPB_" alt="Typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=C5FF4A&center=true&vCenter=true&width=600&lines=%3E+Hi%2C+I'm+Caio+Soares_;%3E+Software+Engineer_;%3E+Internet+Systems+Graduate+%40+IFPB_" alt="Typing header" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 ```console
 caio@dev:~$ whoami
   name       Caio Soares
-  role       Full-Stack Software Developer
+  role       Software Engineer
   education  Graduate in Internet Systems @ IFPB
-  focus      Web applications, APIs and clean, maintainable code
+  focus      Full-stack web & mobile applications
   status     Open to new opportunities
   motto      "just chilling, i like to code :D"
 
