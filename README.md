@@ -41,8 +41,8 @@ I'm a software developer who enjoys turning ideas into reliable, well-crafted pr
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+<img height="165" src="https://raw.githubusercontent.com/caiosoares1/caiosoares1/main/profile/stats.svg" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/caiosoares1/caiosoares1/main/profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=caiosoares1&background=060606&border=252525&stroke=252525&ring=C5FF4A&fire=C5FF4A&currStreakNum=E5E5E5&sideNums=E5E5E5&currStreakLabel=C5FF4A&sideLabels=C5FF4A&dates=8A8A8A" alt="GitHub streak" />
 
