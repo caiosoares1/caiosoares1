@@ -47,6 +47,8 @@ caio@dev:~$ _
 
 #### <samp>01 · <a href="https://github.com/caiosoares1/westminster-songs">westminster-songs</a></samp>
 
+<img src="https://img.shields.io/badge/PUBLIC-C5FF4A?style=flat-square" alt="Public" />
+
 <samp>Mobile app to create, browse and import song lyrics with chords, featuring OCR import and chord transposition.</samp>
 
 <img src="https://skillicons.dev/icons?i=react,ts,nestjs,prisma,postgres,jest&theme=dark&perline=6" alt="westminster-songs stack" height="32" />
@@ -54,7 +56,9 @@ caio@dev:~$ _
 </td>
 <td width="33%" valign="top">
 
-#### <samp>02 · <a href="https://github.com/caiosoares1/vetorcore">vetorcore</a></samp>
+#### <samp>02 · vetorcore</samp>
+
+<img src="https://img.shields.io/badge/PRIVATE-252525?style=flat-square" alt="Private" />
 
 <samp>Progressive web app for sales and inventory management, with PDF quotes, row-level security and automated CI.</samp>
 
@@ -64,6 +68,8 @@ caio@dev:~$ _
 <td width="33%" valign="top">
 
 #### <samp>03 · <a href="https://github.com/caiosoares1/claude-usage-tray">claude-usage-tray</a></samp>
+
+<img src="https://img.shields.io/badge/PUBLIC-C5FF4A?style=flat-square" alt="Public" />
 
 <samp>Windows tray app that tracks usage limits across multiple Claude accounts and switches the active Claude Code account in one click.</samp>
 
