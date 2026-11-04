@@ -11,17 +11,15 @@
 
 ---
 
-```bash
+```console
 caio@dev:~$ whoami
-```
-
-```yaml
-name:      Caio Soares
-role:      Full-Stack Software Developer
-education: Graduate in Internet Systems — IFPB
-focus:     Web applications, APIs and clean, maintainable code
-status:    Open to new opportunities
-motto:     "just chilling, i like to code :D"
+  name       Caio Soares
+  role       Full-Stack Software Developer
+  education  Graduate in Internet Systems @ IFPB
+  focus      Web applications, APIs and clean, maintainable code
+  status     Open to new opportunities
+  motto      "just chilling, i like to code :D"
+caio@dev:~$ _
 ```
 
 I'm a software developer who enjoys turning ideas into reliable, well-crafted products. I work across the stack — from responsive front-ends to robust back-end services — and I'm always exploring new tools and better ways to build.
