@@ -12,15 +12,34 @@ permissions:
   contents: write
 
 jobs:
-  summary-cards:
+  stats-cards:
     runs-on: ubuntu-latest
+    env:
+      THEME: bg_color=060606&title_color=C5FF4A&text_color=E5E5E5&icon_color=C5FF4A&border_color=252525&ring_color=C5FF4A
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fb/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v6
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          USERNAME: ${{ github.repository_owner }}
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&${{ env.THEME }}
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&${{ env.THEME }}
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile cards" || exit 0
+          git pull --rebase
+          git push
 
   snake:
     runs-on: ubuntu-latest
